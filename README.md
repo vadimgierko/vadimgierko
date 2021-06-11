@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vadimgierko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming, visual thinking (sketchnoting) and creative process management
+- 🌱 I’m currently learning React, but still working on side projects in HTML5/CSS3/ES6:
+- 2D simple games,
+- applications for begginers like survey forms, quizes etc.
 
-<!---
-vadimgierko/vadimgierko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The main goal is:
+- learn cool stuff,
+- build a portfolio of my projects here on GitHub
+- and share it to the world! 
