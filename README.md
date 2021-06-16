@@ -7,6 +7,7 @@
 My other interests are:
 - visual thinking (sketchnoting and mindmapping),
 - creative process management (wrote an ebook on the topic),
+- composing music (using GuitarPro 7.5)
 - learning and reading.
 
 The main goal is:
