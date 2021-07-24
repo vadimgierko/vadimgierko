@@ -1,16 +1,20 @@
-- 👋 Hi, I’m @vadimgierko
-- 👀 I’m new to programming and interested in frontend :-)
-- 🌱 I’m currently learning React, but still working on side projects in HTML5/CSS3/ES6:
-- 2D simple games,
-- applications for begginers like survey forms, quizes etc.
+Hi there! My name is Vadim Gierko and I’m a self-taught programmer (front-end) based in Lublin (Poland).
+
+In my projects I usually use:
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React
+- Bootstrap
+- jQuery
+- p5.js
 
 My other interests are:
-- visual thinking (sketchnoting and mindmapping),
-- creative process management (wrote an ebook on the topic),
-- composing music (using GuitarPro 7.5)
-- learning and reading.
 
-The main goal is:
-- learn and do cool stuff,
-- build a portfolio of my projects here on GitHub
-- and share it to the world! 
+- visual thinking (sketchnoting and mindmapping)
+- creative process management (I wrote an ebook on the topic)
+- composing music (using GuitarPro 7.5)
+- learning and reading
+
+Check out my protfolio & open source projects here: https://vadimgierko.github.io/Portfolio/
