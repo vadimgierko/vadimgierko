@@ -1,29 +1,41 @@
 # Hello, World!
 
-My name is Vadim Gierko and I’m a self-taught front-end developer with an artistic, writing, blogging and musical background.
+My name is Vadim Gierko and I’m a self-taught front-end web developer with an artistic, writing, blogging and musical background.
 
-Portfolio: https://vadimgierko.github.io/frontend-developer-portfolio/
+Check out my portfolio: https://vadimgierko.github.io/frontend-developer-portfolio/
 
-In my projects I usually use:
+## What can I do:
 
-- HTML5 / CSS3 / JavaScript (ES6)
-- React (React Router, hooks (useState, useEffect), create-react-app)
-- Bootstrap 5.1 & 4.6
-- jQuery (when use vanilla JS and not React)
-- p5.js (when need visualisations or animation, like in games or art apps)
-- Firebase (database, storage & authorization)
+### Responsive website
+- with content, images, links, forms, icons, logos, blog section, inserted video & audio files etc.
+- built with React 17+ (create-react-app), but also
+- JavaScript (ES6) & jQuery (if needed)
+- with dynamic routing (React Router)
+- styled with Bootstrap 5+ & CSS3
+- connected to Firebase as a backend (if needed)
+- with additional features like mentioned below in "Responsive single page application"
 
-My other interests are:
+### Responsive single page CRUD & API-connected web application
+- all responsive website features & technologies (like above)
+- with quizes, forms, surveys forms etc.
+- with CRUD features, so you can create, read, update & delete content/ data (via Firebase database & storage)
+- API connection
+- with users authentication via Firebase -> users can create, read, update & delete their content
+- with visualizations made with p5.js library
+
+### Simple game 2D
+- all responsive website & application features & technologies (like above)
+- with movement & animations made with p5.js library or "static" game made with React
+
+## Other interests
 
 - visual thinking (sketchnoting and mindmapping)
 - creative process management (I wrote an ebook & ran blog on the topic)
 - composing music (using GuitarPro 7.5)
 - self-development
-- learning new things everyday
-- reading annotated books
-- sudoku, scrabble, chess, uno, blokus
+- abstract & logic board games & sudoku
 
-Currently learning:
+## Currently learning:
 - Redux & Redux+React
 
 
