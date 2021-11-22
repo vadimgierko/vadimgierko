@@ -1,10 +1,10 @@
 # Hello, World!
 
-My name is Vadim Gierko and I’m a self-taught front-end web developer with an artistic, writing, blogging & musical background.
+My name is Vadim Gierko and I’m a self-taught front-end & React developer with an artistic, writing, blogging & musical background.
 
 Check out my `portfolio`: https://vadimgierko.github.io/frontend-developer-portfolio/
 
-## What can I do:
+## What can I build:
 
 ### Responsive & interactive website
 - with content, images, links, forms, icons, logos, blog section, inserted video & audio files etc.
@@ -16,7 +16,7 @@ Check out my `portfolio`: https://vadimgierko.github.io/frontend-developer-portf
 - with additional features like mentioned below in "Responsive single page application"
 
 ### Responsive single page CRUD & API-connected web application
-- all responsive website features & technologies (like above)
+- which has all responsive website features & technologies (like above)
 - with quizes, forms, surveys forms etc.
 - with CRUD features, so you can create, read, update & delete content/ data (via Firebase database & storage)
 - API connection
@@ -24,14 +24,11 @@ Check out my `portfolio`: https://vadimgierko.github.io/frontend-developer-portf
 - with visualizations made with p5.js library
 
 ### Simple CMS for my websites / web apps
-- all responsive website & application features & technologies (like above)
+- which has all responsive website & application features & technologies (like above)
 
 ### Simple game 2D
-- all responsive website & application features & technologies (like above)
+- which has all responsive website & application features & technologies (like above)
 - with movement & animations made with p5.js library or "static" game made with React
-
-## Currently learning:
-- Redux & Redux+React
 
 ## Other interests
 
