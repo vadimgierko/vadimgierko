@@ -1,39 +1,51 @@
 # Hello, World!
 
-My name is Vadim Gierko and I’m a self-taught front-end & React developer with an artistic, writing, blogging & musical background.
+My name is Vadim Gierko and I’m a self-taught JavaScript / React developer with an artistic, writing, blogging & musical background.
 
-Check out my `portfolio`: https://vadimgierko.github.io/frontend-developer-portfolio/
+Check out my [portfolio](https://vadimgierko.github.io/frontend-developer-portfolio/) to see my newest open source projects & try them in browser and/or see its code in GitHub repository.
 
 ## What can I build:
 
-### Responsive & interactive website
-- with content, images, links, forms, icons, logos, blog section, inserted video & audio files etc.
-- built with React 17 (create-react-app), but also
-- JavaScript (ES6) & jQuery (if needed)
-- with dynamic & nested routing (React Router)
-- styled with Bootstrap 5+ & CSS3 (+ Bootswatch & Bootstrap Icons)
-- connected to Firebase 9.1 as a backend (if needed)
-- with additional features like mentioned below in "Responsive single page application"
-
-### Responsive single page CRUD & API-connected web application
-- which has all responsive website features & technologies (like above)
-- with quizes, forms, surveys forms etc.
-- with CRUD features, so you can create, read, update & delete content/ data (via Firebase database & storage)
+### 1. Responsive website /
+### 2. Single page web application (Vanilla JS / React / jQuery) that has:
+- CRUD features, so you can:
+   - create
+   - read
+   - update
+   - delete any kind of content / data
+- dynamic & nested routing (React Router)
+- forms
+- search / filter engines
+- tagged content & searching by tags mechanism
+- users authentication (Firebase 9.1)
+- connection to database & files storage (Firebase 9.1)
+   - realtime database
+   - storage
+- visualizations & animations (p5.js)
 - API connection
-- with users authentication via Firebase -> users can create, read, update & delete their content
-- with visualizations made with p5.js library
+- simple customized CMS written by me
+- Bootstrap 5+ & CSS3 (+ Bootswatch & Bootstrap Icons) styling
 
-### Simple CMS for my websites / web apps
-- which has all responsive website & application features & technologies (like above)
-
-### Simple game 2D
-- which has all responsive website & application features & technologies (like above)
-- with movement & animations made with p5.js library or "static" game made with React
+### 3. Simple 2D game (p5.js / React)
+### 4. Animation/ visualization (p5.js)
 
 ## Other interests
 
 - visual thinking (sketchnoting and mindmapping)
-- creative process management (I wrote an ebook & ran blog on the topic)
 - composing music (using GuitarPro 7.5)
+- creative process management (I wrote an ebook & ran blog on the topic)
 - self-development
 - abstract & logic board games & sudoku
+
+## Future goals
+
+### Full-stack JS Developer
+My apps in [portfolio](https://vadimgierko.github.io/frontend-developer-portfolio/) are absolutely independent & (in some sense) full-stack apps (thank to Firebase connection), but...
+
+I want to become a "real" full-stack JavaScript Developer, so I'm planning to learn:
+- Node.js
+- Express
+- MongoDB
+
+### React Native Developer
+I also want to develop mobile apps with React Native & Expo
