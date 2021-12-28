@@ -6,8 +6,7 @@ Check out my [portfolio](https://vadimgierko.github.io/frontend-developer-portfo
 
 ## What can I build:
 
-### 1. Responsive website /
-### 2. Single page web application (Vanilla JS / React / jQuery) that has:
+### 1. Responsive website / 2. Single page web application that has:
 - CRUD features, so you can:
    - create
    - read
@@ -36,16 +35,3 @@ Check out my [portfolio](https://vadimgierko.github.io/frontend-developer-portfo
 - creative process management (I wrote an ebook & ran blog on the topic)
 - self-development
 - abstract & logic board games & sudoku
-
-## Future goals
-
-### Full-stack JS Developer
-My apps in [portfolio](https://vadimgierko.github.io/frontend-developer-portfolio/) are absolutely independent & (in some sense) full-stack apps (thank to Firebase connection), but...
-
-I want to become a "real" full-stack JavaScript Developer, so I'm planning to learn:
-- Node.js
-- Express
-- MongoDB
-
-### React Native Developer
-I also want to develop mobile apps with React Native & Expo
