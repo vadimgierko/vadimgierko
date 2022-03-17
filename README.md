@@ -1,6 +1,6 @@
 # Hello, World!
 
-My name is Vadim Gierko and I’m a **self-taught React / Firebase developer** with more than a year of non-commercial experience &... an artistic, writing, blogging & musical background.
+My name is Vadim Gierko and I’m a **self-taught React / Firebase developer** with more than a year of non-commercial experience vast creative background.
 
 You can check out my [PORTFOLIO](https://vadimgierko.github.io/frontend-developer-portfolio/) to see my newest public projects & try them in browser and/or see its code in GitHub repository.
 
@@ -11,21 +11,24 @@ You can also read about my programming journey in these articles (published on [
 
 ## What I love to develop
 
-I'm insanely excited to build complex **SPA**s with **React** & **Firebase** (that's why I called myself a React/Firebase developer above :laughing:) with users authentication & all of CRUD features, like my latest:
+I'm insanely excited to build **complex, creative & full-stack React / Firebase single page applications** which support **users authentication** & all of **CRUD** features, like my latest:
 - [Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)
 - [Linky Notes](https://vadimgierko.github.io/linky-notes/), the app that allows you to create & organize notes with tags
 
 I'm not a back-end developer, but I hope to become a full-stack in the future & using Firebase as BaaS gives me the opportunity to feel like one :satisfied: and build in fact full-stack apps.
 
-## Technologies, languages, tools & frameworks I use
-- [X] React
-- [X] JS6
-- [X] React Router
-- [X] Firebase
-- [X] Bootstrap
+## I develop my apps using
+- [X] React 17.0
+- [X] ES6+
+- [X] React Router 5.2
+- [X] Firebase 9.1
+- [X] Bootstrap 5.1
 - [X] Styled Components
 - [X] CSS Flexbox & Grid Layouts
-- [X] ~~Redux~~ Redux-like React Context API + useReducer state management pattern
+- [X] ~~Redux~~ React Context API & useReducer Redux-like state management pattern
+- [X] Atomic Design methodology
+- [X] VSC
+- [X] GitHub & GitHub Pages
 
 and of course
 - [X] HTML + CSS + JS only if I need to:
@@ -34,9 +37,6 @@ and of course
     - simple 2D games, like [Old-school Racing Game](https://vadimgierko.github.io/old-school-2d-racing-game/)
     - simple 2D animation, like [Falling Snow](https://vadimgierko.github.io/let-it-snow/)
     - complex visual apps, like [Mind Map App](https://vadimgierko.github.io/MIND-MAP-APP/)
-
-& also I implement
-- [X] Atomic Design methodology for interface design
 
 ## Other interests & creative background
 
