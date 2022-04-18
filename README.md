@@ -1,23 +1,24 @@
 # Hello, World!
 
-My name is Vadim Gierko and I’m a **self-taught React / Firebase developer** with more than a year of non-commercial experience vast creative background.
-
-You can check out my [PORTFOLIO](https://vadimgierko.github.io/frontend-developer-portfolio/) to see my newest public projects & try them in browser and/or see its code in GitHub repository.
-
-You can also read about my programming journey in these articles (published on [blogging platform](https://vadimgierko.github.io/blogging-platform/) I've developed):
-- [5 REASONS WHY I STARTED LEARNING PROGRAMMING](https://vadimgierko.github.io/blogging-platform/#/blogs/my-programming-journey/5-reasons-why-i-started-learning-programming)
-- [SUMMARY OF MY FIRST YEAR OF LEARNING WEB DEVELOPMENT](https://vadimgierko.github.io/blogging-platform/#/blogs/my-programming-journey/summary-of-my-first-year-of-learning-web-development-roadmap-projects-and-tips-for-newbies)
-- [WHAT I PLAN TO LEARN AND BUILD IN 2022](https://vadimgierko.github.io/blogging-platform/#/blogs/my-programming-journey/what-i-plan-to-learn-and-build-in-front-end-and-react-development-in-2022)
+My name is Vadim Gierko and I’m a **self-taught React / ES6+ developer** with a 1.5 years of non-commercial experience & vast creative background. I feel completely comfortable in front-end & working with Firebase as BaaS; learning to become a MERN stack dev!
 
 ## What I love to develop
 
-I'm insanely excited to build **complex, creative & full-stack React / Firebase single page applications** which support **users authentication** & all of **CRUD** features, like my latest:
+I'm insanely excited to build **complex React single page applications** integrated **with Firebase** which support **users authentication** & all of **CRUD** operations, like my latest:
 - [Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)
 - [Linky Notes](https://vadimgierko.github.io/linky-notes/), the app that allows you to create & organize notes with tags
 
-I'm not a back-end developer, but I hope to become a full-stack in the future & using Firebase as BaaS gives me the opportunity to feel like one :satisfied: and build in fact full-stack apps.
+## What I built
 
-## I develop my apps using
+Check out my [PORTFOLIO](https://vadimgierko.github.io/frontend-developer-portfolio/) to see more of my newest public projects, try them in browser and/or see its code on GitHub.
+
+## Tutorials I wrote
+
+If you like to work with React, you may be interested in my 2 first tutorials:
+- [Redux-like state management pattern in React. Tutorial about how to manage global state in React apps using Context API & useReducer hook](https://github.com/vadimgierko/redux-like-state-management-pattern#readme)
+- [Async Redux-like state management pattern in React. Tutorial about how to manage global state & handle async CRUD functions in React apps integrated with Firebase realtime database using Context API & useReducer](https://github.com/vadimgierko/async-redux-like-state-management-pattern-in-react#readme)
+
+## Stack I use
 - [X] React 17.0
 - [X] ES6+
 - [X] React Router 5.2
@@ -25,18 +26,34 @@ I'm not a back-end developer, but I hope to become a full-stack in the future & 
 - [X] Bootstrap 5.1
 - [X] Styled Components
 - [X] CSS Flexbox & Grid Layouts
-- [X] ~~Redux~~ React Context API & useReducer Redux-like state management pattern
+- [X] React Context API & useReducer Redux-like state management pattern
 - [X] Atomic Design methodology
-- [X] VSC
 - [X] GitHub & GitHub Pages
 
 and of course
-- [X] HTML + CSS + JS only if I need to:
-  - do or test something really simple or...
-  - use p5.js library for animations/ visualizations in cases like below:
-    - simple 2D games, like [Old-school Racing Game](https://vadimgierko.github.io/old-school-2d-racing-game/)
-    - simple 2D animation, like [Falling Snow](https://vadimgierko.github.io/let-it-snow/)
-    - complex visual apps, like [Mind Map App](https://vadimgierko.github.io/MIND-MAP-APP/)
+- [X] HTML
+- [X] CSS
+
+and sometimes
+- [X] p5.js
+
+when need animations/ visualizations for:
+  - simple 2D games, like [Old-school Racing Game](https://vadimgierko.github.io/old-school-2d-racing-game/)
+  - simple 2D animation, like [Falling Snow](https://vadimgierko.github.io/let-it-snow/)
+  - complex visual apps, like [Mind Map App](https://vadimgierko.github.io/MIND-MAP-APP/)
+
+## Currently learning
+
+My current programming goal is to become a MERN stack developer, so I'm learning how to work with:
+- Node.js
+- Express.js
+- MongoDB
+
+I've built a basic CRUD MERN app already & now I'm diving into deeper areas of mentioned technologies.
+
+## Motivation
+
+If you want to know more about my motivation & programming journey, check out [why I started learning programming](https://vadimgierko.github.io/blogging-platform/#/blogs/my-programming-journey/5-reasons-why-i-started-learning-programming) & [what I achieved in the first year of programming](https://vadimgierko.github.io/blogging-platform/#/blogs/my-programming-journey/summary-of-my-first-year-of-learning-web-development-roadmap-projects-and-tips-for-newbies) - articles published on my [blogging platform](https://vadimgierko.github.io/blogging-platform/).
 
 ## Other interests & creative background
 
