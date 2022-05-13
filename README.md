@@ -1,10 +1,17 @@
 # Hello, World!
 
-My name is Vadim Gierko and I’m a **self-taught React / ES6+ developer** with a 1.5 years of non-commercial experience & vast creative background. I feel completely comfortable in front-end & working with Firebase as BaaS; learning to become a MERN stack dev!
+My name is Vadim Gierko and I’m a **self-taught React / ES6+ developer** with a 1.5 years of non-commercial experience & vast creative background. I feel completely comfortable in front-end & working with Firebase as BaaS; learning to become a full-stack dev (MERN / Express)!
 
 ## What I love to develop
 
-I'm insanely excited to build **complex React single page applications** integrated **with Firebase** which support **users authentication** & all of **CRUD** operations, like my latest:
+I'm insanely excited to build **complex React single page applications**, which:
+- are integrated with **Firebase** (database, storage)
+- support **users authentication**
+- have all of **CRUD** operations
+- have dynamic router (React Router)
+- can fetch data from API
+
+My major projects:
 - [Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)
 - [Linky Notes](https://vadimgierko.github.io/linky-notes/), the app that allows you to create & organize notes with tags
 
@@ -26,7 +33,7 @@ If you like to work with React, you may be interested in my 2 first tutorials:
 - [X] Bootstrap 5.1
 - [X] Styled Components
 - [X] CSS Flexbox & Grid Layouts
-- [X] React Context API & useReducer Redux-like state management pattern
+- [X] React Context API & useReducer state management pattern
 - [X] Atomic Design methodology
 - [X] GitHub & GitHub Pages
 
@@ -44,10 +51,15 @@ when need animations/ visualizations for:
 
 ## Currently learning
 
-My current programming goal is to become a MERN stack developer, so I'm learning how to work with:
+My current programming goal is to become a full-stack developer, so I'm learning how to work with:
 - Node.js
 - Express.js
+- Express App Generator
+- Pug templating view engine
 - MongoDB
+- Mongoose
+- MongoDB Atlas
+- deploying on Heroku
 
 I've built a basic CRUD MERN app already & now I'm diving into deeper areas of mentioned technologies.
 
