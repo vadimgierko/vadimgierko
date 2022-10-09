@@ -3,7 +3,9 @@
 My name is Vadim Gierko and I’m
 - a **self-taught React / JavaScript (ES6+) developer**
 - with a 1.5 years of non-commercial programming experience
-- & vast creative background.
+- & vast creative background
+
+based in Lublin/ Poland.
 
 I feel completely comfortable in creating & integrating front-end with Firebase as BaaS.
 
@@ -11,7 +13,8 @@ Looking for the first dev job!
 
 ## What I love & can develop
 
-I'm insanely excited to build **complex React Single Page Applications** & web sites with following features:
+### Complex React Single Page Applications with following features:
+
 - Firebase integration (**Realtime Database/ Firestore & Storage (for files)**)
 - **Users Authentication** with Firebase
 - all of **CRUD** operations
@@ -19,9 +22,13 @@ I'm insanely excited to build **complex React Single Page Applications** & web s
 - data fetching from **API**
 - **RWD**
 
-My major projects:
-- [Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)
-- [Linky Notes](https://vadimgierko.github.io/linky-notes/), the app that allows you to create & organize notes with tags
+### Static Websites built with Next.js/ React
+
+## My major projects:
+
+- **[Personal Website](https://vadimgierko.github.io/personal-website-react/)** which contains my web dev portfolio, fields of interests, projects & articles.
+- **[Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)** which allows to run blogs for free.
+- **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** which allows you to create & organize your notes with tags & style them with Markdown syntax.
 
 ## What I built
 
@@ -29,17 +36,20 @@ Check out my [PORTFOLIO](https://vadimgierko.github.io/frontend-developer-portfo
 
 ## Technologies I use
 
+- Main Technology:
+  - [X] **React** 18+ & its ecosystem
 - Languages:
   - [X] **JavaScript** (ES6+)
   - [X] **HTML5**
   - [X] **CSS3** (Flexbox & Grid Layouts)
-- Main Technology:
-  - [X] **React** 18+ & its ecosystem
+  - [X] **Markdown**
 - State Management:
   - [X] **Redux** (Redux Toolkit)
   - [X] **React Context API**
 - Dynamic Routing:
   - [X] **React Router** 6+
+- SSG Frameworks:
+  - Next.js 12
 - Backend as a Service:
   - [X] **Firebase** 9+
     - [X] Authentication
@@ -64,15 +74,6 @@ Check out my [PORTFOLIO](https://vadimgierko.github.io/frontend-developer-portfo
 - Metodologies/ Architectural patterns:
   - [X] Atomic Design methodology
   - [X] MVC
-
-## Currently learning
-
-My current programming goal is to become a full-stack developer, so I'm learning how to work with:
-- **MERN** Stack (I've built a basic CRUD MERN app already & now I'm diving into deeper areas of mentioned technologies)
-  - MongoDB Atlas
-  - Mongoose
-  - Express.js
-- Gatsby
 
 ## Tutorials I wrote
 
