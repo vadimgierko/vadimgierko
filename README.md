@@ -2,7 +2,7 @@
 
 My name is Vadim Gierko and I’m
 - a **self-taught React / JavaScript (ES6+) developer**
-- with a 1.5 years of non-commercial programming experience
+- with a more than 1.5 years of non-commercial programming experience
 - & vast creative background
 
 based in Lublin/ Poland.
@@ -49,7 +49,7 @@ Check out my [PORTFOLIO](https://vadimgierko.github.io/frontend-developer-portfo
 - Dynamic Routing:
   - [X] **React Router** 6+
 - SSG Frameworks:
-  - Next.js 12
+  - [X] Next.js 12
 - Backend as a Service:
   - [X] **Firebase** 9+
     - [X] Authentication
