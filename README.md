@@ -2,16 +2,13 @@
 
 My name is Vadim Gierko and I’m
 - a **self-taught React / JavaScript (ES6+) developer**
+- specializing in creating **web applications** & **web pages**
 - with a more than 1.5 years of non-commercial programming experience
 - & vast creative background
+- based in Lublin/ Poland
+- looking for the first dev job!
 
-based in Lublin/ Poland.
-
-I feel completely comfortable in creating & integrating front-end with Firebase as BaaS.
-
-Looking for the first dev job!
-
-## What I love & can develop
+## What I love & can develop. 
 
 ### Complex React Single Page Applications with following features:
 
@@ -22,58 +19,56 @@ Looking for the first dev job!
 - data fetching from **API**
 - **RWD**
 
-### Static Websites built with Next.js/ React
-
-## My major projects:
-
-- **[Personal Website](https://vadimgierko.github.io/personal-website-react/)** which contains my web dev portfolio, fields of interests, projects & articles.
+Major projects:
 - **[Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)** which allows to run blogs for free.
 - **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** which allows you to create & organize your notes with tags & style them with Markdown syntax.
 
-## What I built
+### Static Websites built with Next.js/ React deployed on Vercel
 
-Check out my [PORTFOLIO](https://vadimgierko.github.io/frontend-developer-portfolio/) to see more of my newest public projects, try them in browser and/or see its code on GitHub.
+Major projects:
+- **[Personal Website vadimgierko.com](https://vadimgierko.com)** which contains my web dev portfolio, fields of interests, projects, articles, original music samples, visual notes & more.
 
 ## Technologies I use
 
 - Main Technology:
-  - [X] **React** 18+ & its ecosystem
+  - **React** 18+ & its ecosystem
 - Languages:
-  - [X] **JavaScript** (ES6+)
-  - [X] **HTML5**
-  - [X] **CSS3** (Flexbox & Grid Layouts)
-  - [X] **Markdown**
+  - **JavaScript** (ES6+)
+  - **HTML5**
+  - **CSS3** (Flexbox & Grid Layouts)
+  - **Markdown**
 - State Management:
-  - [X] **Redux** (Redux Toolkit)
-  - [X] **React Context API**
+  - **Redux** (Redux Toolkit)
+  - **React Context API**
 - Dynamic Routing:
-  - [X] **React Router** 6+
+  - **React Router** 6+
 - SSG Frameworks:
-  - [X] Next.js 12
+  - **Next.js** 12
 - Backend as a Service:
-  - [X] **Firebase** 9+
-    - [X] Authentication
-    - [X] Realtime Database
-    - [X] Firestore
-    - [X] Storage
+  - **Firebase** 9+
+    - Authentication
+    - Realtime Database
+    - Firestore
+    - Storage
 - Styling:
-  - [X] **Bootstrap** 5+
-  - [X] **React-Bootstrap** 2+
-  - [X] **Styled Components**
-  - [X] **MUI**
+  - **Bootstrap** 5+
+  - **React-Bootstrap** 2+
+  - **Styled Components**
+  - **MUI** 5
 - Version Control:
-  - [X] GitHub
+  - GitHub/ GitHub Desktop
 - Site/ Apps Hosting:
-  - [X] GitHub Pages
+  - GitHub Pages
+  - Vercel
 - Other libraries (not used for a while...):
-  - [X] **p5.js** (for animations/ visualizations like in apps listed below:)
+  - **p5.js** (for animations/ visualizations like in apps listed below:)
     - simple 2D games, like [Old-school Racing Game](https://vadimgierko.github.io/old-school-2d-racing-game/)
     - simple 2D animation, like [Falling Snow](https://vadimgierko.github.io/let-it-snow/)
     - complex visual apps, like [Mind Map App](https://vadimgierko.github.io/MIND-MAP-APP/)
-  - [X] **jQuery**
+  - **jQuery**
 - Metodologies/ Architectural patterns:
-  - [X] Atomic Design methodology
-  - [X] MVC
+  - Atomic Design methodology
+  - MVC
 
 ## Tutorials I wrote
 
@@ -87,8 +82,8 @@ If you want to know more about my motivation & programming journey, check out [w
 
 ## Other interests & creative background
 
-- visual thinking (sketchnoting and mindmapping)
-- composing music (using GuitarPro 7.5)
-- creative process management (I wrote an ebook & ran blog on the topic)
+- [visual thinking](https://vadimgierko.com/visual-thinking) (sketchnoting and mindmapping)
+- [composing music](https://www.vadimgierko.com/music) (using GuitarPro 7.5)
+- [creative process management](https://www.vadimgierko.com/creative-process-management) (I wrote an [ebook](https://www.vadimgierko.com/ebook-zarzadzanie-procesem-tworczym) & ran blog on the topic)
 - learning process management & best practicies
 - abstract & logical board games & sudoku
