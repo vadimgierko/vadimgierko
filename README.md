@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 
-<p align="center">My name is Vadim Gierko and I'm self-taught React/ ES6/ Next.js/ Firebase developer with a wide range of interests & vast creative background based in Lublin.</p>
+<p align="center">My name is Vadim Gierko and I'm self-taught React/ ES6+/ TypeScript/ Next.js/ Firebase web developer with a wide range of interests & vast creative background based in Lublin.</p>
 
 ---
 
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="35">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="35">
@@ -26,7 +27,6 @@
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30">
 </div>
 
 <h2 align="center">Deployment</h2>
@@ -38,9 +38,10 @@
 
 <h2 align="center">What I can develop</h2>
 
-- **Single Page (SPA) & Progressive (PWA) Web Applications** (React/ Firebase)
-- **Static (SSG) & dynamic (SSR) websites** (Next.js/ Firebase/ Sanity)
-- **E-commerce sites** (Next.js/ Stripe/ Firebase/ Sanity)
+- **Single Page (SPA) & Progressive (PWA) Web Applications**
+- **Static (SSG) & dynamic (SSR) websites**
+- **E-commerce sites**
+- **Landing pages**
 
 <h2 align="center">What features my apps can have</h2>
 
@@ -50,20 +51,21 @@
 - **Headless CMS** (Sanity)
 - **Responsive Web Design (RWD)**
 - **Dark Mode**
-- data fetching from **API**
+- integration with external **API**
 - **local storage integration**
 
 <h2 align="center">Major Projects</h2>
 
 - open source
   - **[Personal Website vadimgierko.com](https://vadimgierko.com)** which contains my web dev portfolio, fields of interests, projects, articles, original music samples, visual notes & more.
-  - **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** which allows you to create & organize your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
-  - **[Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)** which allows to run blogs for free.
+  - **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** which allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
   - **[Minimalistic Todo App](https://vadimgierko.github.io/todo-app/)** which allows you to create todo lists with tasks (*I'm using it everyday*).
+  - **[Blogging Platform with Markdown Text Editor](https://vadimgierko.github.io/blogging-platform/)** which allows to run blogs for free.
+  - **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
 - commercial
   - **[E-commerce site for a local manufacturer of handmade ceramics](https://ecommerce-website-next-js-sanity-stripe-firebase.vercel.app/)**
 
-## Other interests & creative background
+<h2 align="center">Other interests & creative background</h2>
 
 - [visual thinking](https://vadimgierko.com/visual-thinking) (sketchnoting and mindmapping)
 - [composing music](https://www.vadimgierko.com/music) (using GuitarPro 7.5)
