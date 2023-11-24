@@ -78,10 +78,11 @@
 <h2 align="center">Major Projects</h2>
 
 - open source
-  - **[Personal Website vadimgierko.com](https://vadimgierko.com)** which contains my web dev portfolio, fields of interests, projects, articles, original music samples, visual notes & more.
-  - **[Realtime Chat App](https://vg-chat-app-react.vercel.app/)** which allows you to sign in with Google account & chat with registered users, use multiline text & links in messages, see interlocutors online status, get a sound & visual notifications & add the app to phone or desktop screen (*feel free to join & chat with me* 😉)
-  - **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
-  - **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** which allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
+  - **[Personal Website vadimgierko.com](https://vadimgierko.com)** (Next.js) which contains my web dev portfolio, fields of interests, projects, articles, original music samples, visual notes & more.
+  - **[JavaScript tutorial & documentation for office workers in Polish](https://kodujemywbiurze.pl)** (SvelteKit, TypeScript) where beginners learn the basics of the language as they create a task management application that they write and run directly in the browser console using Local Storage.
+  - **[Realtime Chat App](https://vg-chat-app-react.vercel.app/)** (React, TypeScript) which allows you to sign in with Google account & chat with registered users, use multiline text & links in messages, see interlocutors online status, get a sound & visual notifications & add the app to phone or desktop screen (*feel free to join & chat with me* 😉)
+  - **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** (React, TypeScript) which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
+  - **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** (React) which allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
   
 - commercial
   - **[E-commerce site for a local manufacturer of handmade ceramics](https://ecommerce-website-next-js-sanity-stripe-firebase.vercel.app/)**
