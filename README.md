@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>Hello, World!</h1>
+  <h1>Hello, World! 👋</h1>
   
   <p>
-    My name is Vadim Gierko and I'm a self-taught front-end/ full-stack web developer with almost 3 years of programming experience, a wide range of interests & vast creative background based in Lublin.
+    My name is Vadim Gierko and I've been coding fullstack web apps & websites from scratch for 3 years now 🙃
   </p>
+
+  <p>Despite my wide range of interests & vast creative background, programming is my greatest passion, which I have recently been sharing with others through my own <a href="https://www.kodujemywbiurze.pl">web dev course for beginners</a> (in Polish).</p>
   
   <h2>Libraries</h2>
   
@@ -65,15 +67,14 @@
 
 <h2 align="center">What features my apps can have</h2>
 
-- **Cloud database integration** (Firebase Firestore & Storage)
-- **Users Authentication** (Firebase)
-- **Online payments & products management system** (Stripe)
-- **Custom CMS**
-- **Responsive Web Design (RWD)**
-- **Dark Mode**
-- integration with external **API**
-- **custom API routes** (Next.js, SvelteKit)
-- **Local Storage integration**
+- ☁️ **Cloud database integration** (Firebase Firestore & Storage)
+- 🤓 **Users Authentication** (Firebase)
+- 💰 **Online payments & products management system** (Stripe)
+- 📱 **Responsive Web Design (RWD)**
+- 🌙 **Dark Mode**
+- 🔌 integration with external **API**
+- 🔌 **custom API routes** (Next.js, SvelteKit)
+- 💾 **Local Storage integration**
 
 <h2 align="center">Major Projects</h2>
 
