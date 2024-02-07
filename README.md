@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" height="35">
     <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="35">
   </div>
   
@@ -84,9 +85,6 @@
   - **[Realtime Chat App](https://vg-chat-app-react.vercel.app/)** (built with React, TypeScript & Firebase) which allows you to sign in with Google account & chat with registered users, use multiline text & links in messages, see interlocutors online status, get a sound & visual notifications & add the app to phone or desktop screen (*feel free to join & chat with me* 😉)
   - **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** (built with React, TypeScript & Firebase) which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
   - **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** (built with React & Firebase) which allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
-  
-- commercial
-  - **[E-commerce site for a local manufacturer of handmade ceramics](https://ecommerce-website-next-js-sanity-stripe-firebase.vercel.app/)**
 
 <h2 align="center">Other interests & creative background</h2>
 
