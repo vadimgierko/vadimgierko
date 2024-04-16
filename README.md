@@ -2,7 +2,7 @@
   <h1>Hello, World! 👋</h1>
   
   <p>
-    My name is Vadim Gierko and I've been coding fullstack web apps & websites from scratch for 3 years now 🙃
+    My name is Vadim Gierko and I've been coding fullstack web apps & websites from scratch for 3+ years now 🙃
   </p>
 
   <p>Despite my wide range of interests & vast creative background, programming is my greatest passion, which I have recently been sharing with others through my own <a href="https://www.kodujemywbiurze.pl">web dev course for beginners</a> (in Polish).</p>
@@ -62,7 +62,7 @@
 - **Single Page Web Applications (SPA)**
 - **Progressive Web Applications (PWA)** (installable apps)
 - **Static (SSG) & dynamic (SSR) websites**
-- **E-commerce sites** with basic features (not too complex)
+- **E-commerce sites**
 - **Landing pages**
 - **Headless CMS**
 
