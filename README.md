@@ -2,7 +2,11 @@
   <h1>Hello, World! 👋</h1>
   
   <p>
-    My name is Vadim Gierko and I've been coding fullstack web apps & websites from scratch for 3+ years now 🙃
+    My name is Vadim Gierko and I'm in ❤️ in web development for 3+ years now 🙃
+  </p>
+
+  <p>
+    Although I can create websites and online stores from scratch, my greatest ambition is to create <strong>full stack web applications</strong>, which is what I like the most!
   </p>
 
   <p>Despite my wide range of interests & vast creative background, programming is my greatest passion, which I have recently been sharing with others through my own <a href="https://www.kodujemywbiurze.pl">web dev course for beginners</a> (in Polish).</p>
@@ -79,17 +83,17 @@
 
 <h2 align="center">Major Projects</h2>
 
-- open source
-  - **[Personal Website vadimgierko.com](https://www.vadimgierko.com)** (built with Next.js/ React) which contains my web dev portfolio, fields of interests, projects, articles, original music samples, visual notes & more.
-  - **[Free open source Web Development course for office workers in Polish](https://www.kodujemywbiurze.pl)** (built with SvelteKit, TypeScript & Markdown) where beginners learn the basics of JavaScript & HTML as they create a task management application that they write and run directly in the browser console using Chrome Snippets & Local Storage to storage their tasks first and then they add some basic HTML UI & learn DOM to connect HTML & previously built JS app.
-  - **[Realtime Chat App](https://vg-chat-app-react.vercel.app/)** (built with React, TypeScript & Firebase) which allows you to sign in with Google account & chat with registered users, use multiline text & links in messages, see interlocutors online status, get a sound & visual notifications & add the app to phone or desktop screen (*feel free to join & chat with me* 😉)
-  - **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** (built with React, TypeScript & Firebase) which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
-  - **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** (built with React & Firebase) which allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
-
+- **[Personal Website vadimgierko.com](https://www.vadimgierko.com)** (built with Next.js/ React) which contains my web dev portfolio, fields of interests, projects, articles, original music samples, visual notes & more.
+- **[Free open source Web Development course for office workers in Polish](https://www.kodujemywbiurze.pl)** (built with SvelteKit, TypeScript & Markdown) where beginners learn the basics of JavaScript & HTML as they create a task management application that they write and run directly in the browser console using Chrome Snippets & Local Storage to storage their tasks first and then they add some basic HTML UI & learn DOM to connect HTML & previously built JS app.
+- **[Linky Notes](https://vadimgierko.github.io/linky-notes/)** (built with React & Firebase) which allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
+- **[Realtime Chat App](https://vg-chat-app-react.vercel.app/)** (built with React, TypeScript & Firebase) which allows you to sign in with Google account & chat with registered users, use multiline text & links in messages, see interlocutors online status, get a sound & visual notifications & add the app to phone or desktop screen (*feel free to join & chat with me* 😉)
+- **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** (built with React, TypeScript & Firebase) which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
+  
 <h2 align="center">Other interests & creative background</h2>
 
-- [visual thinking](https://vadimgierko.com/visual-thinking) (sketchnoting and mindmapping)
-- [composing music](https://www.vadimgierko.com/music) (using GuitarPro 7.5)
-- [creative process management](https://www.vadimgierko.com/creative-process-management) (I wrote an [ebook](https://www.vadimgierko.com/ebook-zarzadzanie-procesem-tworczym) & ran blog on the topic)
-- learning process management & best practicies
-- abstract & logical board games & sudoku
+- 🖌️ [visual thinking](https://vadimgierko.com/visual-thinking) (sketchnoting and mindmapping)
+- 🎸 [composing music](https://www.vadimgierko.com/music) (using GuitarPro 7.5)
+- 💡 [creative process management](https://www.vadimgierko.com/creative-process-management) (I wrote an [ebook](https://www.vadimgierko.com/ebook-zarzadzanie-procesem-tworczym) & ran blog on the topic)
+- 📚 learning process management & best practicies
+- 💪 gym ([HIT, Arthur Jones](https://en.wikipedia.org/wiki/High-intensity_training))
+- 🧠 abstract & logical board games & sudoku
