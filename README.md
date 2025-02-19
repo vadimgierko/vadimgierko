@@ -2,14 +2,16 @@
   <h1>Hello, World! 👋</h1>
   
   <p>
-    My name is Vadim Gierko and I'm in ❤️ in web development for 3+ years now 🙃
+    My name is Vadim Gierko and I'm in ❤️ in web & SaaS development since 2020/2021 🙃
   </p>
 
   <p>
-    Although I can create websites and online stores from scratch, my greatest ambition is to create <strong>full stack web applications</strong>, which is what I like the most!
+    Although I've created websites (you can check out my <a href="https://vadimgierko.com">personal website</a>) and online stores from scratch,
+    my greatest dev ambition & passion always was to create <strong>full stack web / SaaS applications</strong>, which I've made a few.
   </p>
 
-  <p>Despite my wide range of interests & vast creative background, programming is my greatest passion, which I have recently been sharing with others through my own <a href="https://www.kodujemywbiurze.pl">free web dev course for office workers</a> (in Polish).</p>
+  <p>Despite my wide range of interests & vast creative background, programming is my greatest passion,
+    which I have recently been sharing with others through my own <a href="https://www.kodujemywbiurze.pl">free web dev course for office workers</a> (in Polish).</p>
 
   <h2>💪 Favourite Tech Stack 🛠️</h2>
 
@@ -49,9 +51,9 @@
 
 - **CSR/SSG/SSR/ISR/SPA/PWA websites/apps** (Next.js, React, TypeScript, Firebase)
 - Basic **Native (Mobile) Apps** (Expo, React Native)
-- **E-commerce sites** (Stripe)
+- **E-commerce sites** (with Stripe for payments)
 - **Landing pages**
-- **Headless CMS**
+- **Headless CMS** (using Firebase)
 
 <h2 align="center">🛠️ What features my apps can have</h2>
 
@@ -66,9 +68,9 @@
 
 <h2 align="center">📂 Major Projects</h2>
 
+- **[Linky Notes](https://linkynotes.com)** (Next.js & Firebase) which is an online version of *Zettelkasten* note-taking and personal knowledge management system. The app allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
 - **[Personal Website vadimgierko.com](https://www.vadimgierko.com)** (built with Next.js/ React) which contains my web dev portfolio, fields of interests, projects, articles, original music samples, visual notes & more.
 - **[Free open source Web Development course for office workers in Polish](https://www.kodujemywbiurze.pl)** (built with SvelteKit, TypeScript & Markdown) where beginners learn the basics of JavaScript & HTML as they create a task management application that they write and run directly in the browser console using Chrome Snippets & Local Storage to storage their tasks first and then they add some basic HTML UI & learn DOM to connect HTML & previously built JS app.
-- **[Linky Notes](https://linkynotes.com)** (built with React & Firebase) which allows you to create, organize & filter your notes with one or more tags & style them with Markdown syntax (*I'm using it everyday*).
 - **[Realtime Chat App](https://vg-chat-app-react.vercel.app/)** (built with React, TypeScript & Firebase) which allows you to sign in with Google account & chat with registered users, use multiline text & links in messages, see interlocutors online status, get a sound & visual notifications & add the app to phone or desktop screen (*feel free to join & chat with me* 😉)
 - **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** (built with React, TypeScript & Firebase) which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
 - **Secret Second Brain like Project** - my future *opus magnum* - (built with Next.js, TypeScript & Firebase) which combines & then extends features of some of my previous apps, including [Linky Notes](https://linkynotes.com), and also integrate them into one interconnected system with unique features. Version 1.0 deploying soon!
