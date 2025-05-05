@@ -22,7 +22,7 @@
   | Backend Infrastructure, Database & Auth | <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="35">|
   | Payments | <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" height="35">|
   | Deployment | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" height="35">|
-  | Tools | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" height="30"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30">|
+  | Tools | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="30"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30">|
   | | |
 
   <h2>➕ Also messed around with 😏</h2>
@@ -73,7 +73,7 @@
 - **[Free open source Web Development course for office workers in Polish](https://www.kodujemywbiurze.pl)** (built with SvelteKit, TypeScript & Markdown) where beginners learn the basics of JavaScript & HTML as they create a task management application that they write and run directly in the browser console using Chrome Snippets & Local Storage to storage their tasks first and then they add some basic HTML UI & learn DOM to connect HTML & previously built JS app.
 - **[Realtime Chat App](https://vg-chat-app-react.vercel.app/)** (built with React, TypeScript & Firebase) which allows you to sign in with Google account & chat with registered users, use multiline text & links in messages, see interlocutors online status, get a sound & visual notifications & add the app to phone or desktop screen (*feel free to join & chat with me* 😉)
 - **[Issue Tracker](https://github.com/vadimgierko/issue-tracker)** (built with React, TypeScript & Firebase) which allows you to manage issues in particular dev projects or have an overview of all issues regardless of the project, placed in one table to focus on the most important things & filter them (*MVP at the moment, but I'm using it everyday already*).
-- **Secret Second Brain like Project** - my future *opus magnum* - (built with Next.js, TypeScript & Firebase) which combines & then extends features of some of my previous apps, including [Linky Notes](https://linkynotes.com), and also integrate them into one interconnected system with unique features. Version 1.0 deploying soon!
+- **[Gemini AI Chatbot](https://gemini-ai-chatbot.vadimgierko.com/)** - a free, open-source AI temporary-based chatbot app integrated with Google's Gemini AI. Google Sign In, custom system instructions, Markdown support, code highlighting & response streaming.
   
 <h2 align="center">🦄 Other interests & creative background</h2>
 
