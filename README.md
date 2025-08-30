@@ -13,14 +13,6 @@
   <p>Despite my wide range of interests & vast creative background, programming is my greatest passion,
     which I have recently been sharing with others through my own <a href="https://www.kodujemywbiurze.pl">free web dev course for office workers</a> (in Polish).</p>
 
-  <h2>⚠️ CURRENT DEV ACTIVITY UPDATES ⚠️</h2>
-
-  <p>At the moment (from April 2025) I do less development <em>(what can be noticed by looking on my contributions graph)</em>, because I'm preparing for the swarn translator / interpreter exam (Polish-Ukrainian).</p>
-
-  <p>Nevertheless I've made a <a href="https://github.com/vadimgierko/gscript-glossary-manager">Google Apps Script-powered dialog interface for managing bilingual word pairs (Polish–Ukrainian) directly in Google Sheets</a> & it includes real-time & multi-word search & CRUD features, all within a single custom dialog UI. I've made it for my exam needs to make my learning & managing the glossary more efficient & hope it will turn into independent full-featured app someday.</p>
-
-  <p>Also I dove in Uncle Bob's <strong>Clean Code/Architecture</strong> lectures, so when I touch the code during my exam preparations it rather be a refactoring the old code to meet clean code requirements than building new staff.</p>
-
   <h2>💪 Favourite Tech Stack 🛠️</h2>
 
   | | |
